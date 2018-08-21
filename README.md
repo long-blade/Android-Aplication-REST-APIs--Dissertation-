@@ -1,2 +1,2 @@
 # Android Aplication REST APIs (Dissertation)
-This is a complete Tutorial describing a REST application
+This is a complete Tutorial (Dissertation) describing a REST application
